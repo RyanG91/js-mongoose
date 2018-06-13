@@ -52,6 +52,10 @@ app.get('/enquiries', async (req, res) => {
 })
 // 
 
+// Beast Mode
+
+// 
+
 app.listen(9876, () => {
   console.log('Contact API listening on port 9876')
 });
